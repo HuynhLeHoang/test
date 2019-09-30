@@ -1,0 +1,80 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.UI.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\TelerikCommon.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.xml
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.UI.xml
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmbaocao.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmdangnhap.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmkhachhang.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmnhanvien.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinphong.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinpphongkh.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmainquanlykhachsan.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmain.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.dll
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.dll
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.dll
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.UI.dll
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\TelerikCommon.dll
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.pdb
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.pdb
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.pdb
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.xml
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.UI.xml
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmbaocao.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmdangnhap.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmkhachhang.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmain.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmnhanvien.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinphong.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinpphongkh.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmainquanlykhachsan.resources
+D:\tai lieu\New folder\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.xml
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmbaocao.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmdangnhap.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmkhachhang.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmain.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmnhanvien.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinphong.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinpphongkh.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmainquanlykhachsan.resources
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb

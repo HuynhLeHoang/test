@@ -1,0 +1,16 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\bin\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\DAL\bin\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\bin\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\obj\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\obj\Debug\DAL.pdb
